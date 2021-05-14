@@ -1,0 +1,1 @@
+tellraw @a {"text": "Waffle Data Loaded", "color": "#0000FF"}
